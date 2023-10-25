@@ -1,1 +1,1 @@
-def REturn(): return ["tanh", "huong", "hang", "pan", "thi", "uyen"]
+tanh, thang, pan, huong, phang, thi, uyen
