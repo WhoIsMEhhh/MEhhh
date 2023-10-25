@@ -1,1 +1,1 @@
-return ["tanh", "huong", "hang", "pan", "thi", "uyen"]
+k = ["tanh", "huong", "hang", "pan", "thi", "uyen"]
