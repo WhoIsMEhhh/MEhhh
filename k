@@ -1,1 +1,1 @@
-tanh, thang, pan, huong, phang, thi, uyen
+tanh,thang, pan,huong,phang,thi,uyen
